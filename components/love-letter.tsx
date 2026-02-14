@@ -44,8 +44,7 @@ export function LoveLetter() {
               Mi amor,
             </p>
             <p className="font-sans text-base md:text-lg leading-relaxed text-muted-foreground mb-4">
-              Desde el momento en que llegaste a mi vida, todo cambio. Tu sonrisa ilumina mis dias
-              mas oscuros, y tu risa es la melodia mas hermosa que he escuchado.
+              Desde el momento en que llegaste a mi vida, Sube que ibas hacer especial para mi. Tu sonrisa ilumina mis dias y tu risa es la melodia mas hermosa que he escuchado.
             </p>
             <p className="font-sans text-base md:text-lg leading-relaxed text-muted-foreground mb-4">
               Cada momento a tu lado es un tesoro que guardo en mi corazon. Gracias por ser mi
